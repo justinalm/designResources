@@ -1,7 +1,5 @@
 # Design Resources
-
-I design with MindNode Pro, Adobe CC(Photoshop, Illustrator, InDesign, After Effects), [Sketch](http://bohemiancoding.com/sketch/) by Bohemian Coding, Quartz Composer, Pages, Flinto, and Final Cut Pro X.
-
+I design with [MindNode Pro](http://mindnode.com/), [Adobe CC](https://www.adobe.com/creativecloud.html)(Photoshop, Illustrator, InDesign, After Effects), [Sketch](http://bohemiancoding.com/sketch/) by Bohemian Coding, [Origami](https://facebook.github.io/origami/) Quartz Composer, [Pages](https://www.apple.com/ca/mac/pages/), [Flinto](https://www.flinto.com/), and [Final Cut Pro X](https://www.apple.com/ca/final-cut-pro/).
 ### Colour
 
 [https://color.adobe.com/](https://color.adobe.com/)
