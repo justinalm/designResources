@@ -20,7 +20,6 @@
 - [Designspiration.net](http://designspiration.net/)
 - [Siteinspire.com](http://www.siteinspire.com/)
 - [Pttrns.com](http://www.pttrns.com/)
-- []()
 
 ## Colour
 
