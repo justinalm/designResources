@@ -1,6 +1,13 @@
 # Design Resources
 
-## Software Tools: [MindNode Pro](http://mindnode.com/), [Adobe CC](https://www.adobe.com/creativecloud.html)(Photoshop, Illustrator, InDesign, After Effects), [Sketch](http://bohemiancoding.com/sketch/) by Bohemian Coding, [Origami](https://facebook.github.io/origami/) for Quartz Composer, [Pages](https://www.apple.com/ca/mac/pages/), [Flinto](https://www.flinto.com/), and [Final Cut Pro X](https://www.apple.com/ca/final-cut-pro/).
+## Software Tools
+- [MindNode Pro](http://mindnode.com/)
+- [Adobe CC](https://www.adobe.com/creativecloud.html)(Photoshop, Illustrator, InDesign, After Effects)
+- [Sketch](http://bohemiancoding.com/sketch/) by Bohemian Coding
+- [Origami](https://facebook.github.io/origami/) for Quartz Composer
+- [Pages](https://www.apple.com/ca/mac/pages/)
+- [Flinto](https://www.flinto.com/)
+- [Final Cut Pro X](https://www.apple.com/ca/final-cut-pro/).
 
 ## Colour
 
