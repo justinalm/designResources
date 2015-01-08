@@ -1,13 +1,26 @@
 # Design Resources
 
 ## Software Tools
+
 - [MindNode Pro](http://mindnode.com/)
 - [Adobe CC](https://www.adobe.com/creativecloud.html)(Photoshop, Illustrator, InDesign, After Effects)
 - [Sketch](http://bohemiancoding.com/sketch/) by Bohemian Coding
 - [Origami](https://facebook.github.io/origami/) for Quartz Composer
 - [Pages](https://www.apple.com/ca/mac/pages/)
 - [Flinto](https://www.flinto.com/)
-- [Final Cut Pro X](https://www.apple.com/ca/final-cut-pro/).
+- [Final Cut Pro X](https://www.apple.com/ca/final-cut-pro/)
+
+## Strategy & Design Process
+
+- [Etsy’s Design Process](http://thebadprince.svbtle.com/design-process)
+- [Product Cartography](http://www.uxbooth.com/articles/designing-digital-strategies-part-1-cartography/)
+
+## Visual Research
+
+- [Designspiration.net](http://designspiration.net/)
+- [Siteinspire.com](http://www.siteinspire.com/)
+- [Pttrns.com](http://www.pttrns.com/)
+- []()
 
 ## Colour
 
@@ -15,83 +28,78 @@
 
 ## Typography
 
-- Probably all you will ever need to know about typography and working with type:
-[http://classic.fontshop.com/education/](http://classic.fontshop.com/education/)
-- An alternate version of Font Shop’s classic, The Typographer’s Glossary:
-[https://playtype.com/about/typefaces/glossary](https://playtype.com/about/typefaces/glossary)
+- [Font Shop’s Education resources](http://classic.fontshop.com/education/) is probably all you will ever need to know about typography and working with type
+- An alternate version of Font Shop’s [The Typographer’s Glossary](https://playtype.com/about/typefaces/glossary)
 
 ## Fonts
 
-- Typekit: [https://typekit.com/](https://typekit.com/)
-- Google Web Fonts: [https://www.google.com/fonts](https://www.google.com/fonts)
-- San Francisco Font for Apple Watch: [https://github.com/wellsriley/YosemiteSanFranciscoFont](https://github.com/wellsriley/YosemiteSanFranciscoFont)
+- [Typekit](https://typekit.com/)
+- [Google Web Fonts](https://www.google.com/fonts)
+- [San Francisco Font](https://github.com/wellsriley/YosemiteSanFranciscoFont) for Apple Watch
 
 ## Icon Sets
 
-A website of icon fonts:
+- A website of icon fonts:
 [http://weloveiconfonts.com/](http://weloveiconfonts.com/)
-I like Entypo:
-[http://www.entypo.com/](http://www.entypo.com/)
-Ionicons:
-[http://ionicons.com/](http://ionicons.com/)
-Font Awesome:
-[http://fontawesome.io/](http://fontawesome.io/)
-SS Social:
-[https://symbolset.com/icons/social-regular](https://symbolset.com/icons/social-regular)
-SS Social Circle:
-[https://symbolset.com/icons/social-circle](https://symbolset.com/icons/social-circle)
+- [Entypo](http://www.entypo.com/)
+- [Ionicons](http://ionicons.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [SS Social](https://symbolset.com/icons/social-regular)
+- [SS Social Circle](https://symbolset.com/icons/social-circle)
 
 ## Information Architecture
 
-- MindNode is a great tool for mapping ideas:
-[http://mindnode.com/](http://mindnode.com/)
+- [MindNode](http://mindnode.com/) is a great tool for mapping ideas
 
 ## Wireframing
 
-- An awesome Illustrator kit for wireframing iOS 8 apps:
-[http://mercury.io/blog/ios-8-illustrator-vector-ui-kit-update](http://mercury.io/blog/ios-8-illustrator-vector-ui-kit-update)
-
-- The list of Teehan & Lax iOS design tools:
-[http://www.teehanlax.com/tools/](http://www.teehanlax.com/tools/)
-
-- Touch gesture icons for annotating mobile wireframes:
-[http://www.mobiletuxedo.com/touch-gesture-icons/](http://www.mobiletuxedo.com/touch-gesture-icons/)
+- Apple’s [Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+- Mercury’s awesome [Illustrator kit for wireframing](http://mercury.io/blog/ios-8-illustrator-vector-ui-kit-update) iOS 8 apps
+- [Teehan & Lax iOS design tools](http://www.teehanlax.com/tools/)
+- [Touch gesture icons](http://www.mobiletuxedo.com/touch-gesture-icons/) for annotating mobile wireframes
+- [Android’s Design Docs](https://developer.android.com/design/index.html)
+- [Android Stencils & Icons](https://developer.android.com/design/downloads/index.html)
 
 ## Interactive Prototypes
 
-- A prototyping library for Quartz Composer by Facebook: [https://facebook.github.io/origami/](https://facebook.github.io/origami/)
-- Flinto enables you to make PNGs interactive for demoing iOS concepts: [https://www.flinto.com/](https://www.flinto.com/)
-- I haven’t used this yet but I know a lot of people are. It’s a javascript library for building interactive prototypes similar to Quartz Composer: [http://framerjs.com/](http://framerjs.com/)
+- [Origiami](https://facebook.github.io/origami/) prototyping library for Quartz Composer by Facebook
+- [Flinto](https://www.flinto.com/) enables you to make PNGs interactive for demoing iOS concepts
+- [Framer.js](http://framerjs.com/). I haven’t used this yet but I know a lot of people are. It’s a javascript library for building interactive prototypes similar to Quartz Composer
 
 ## App Icons
 
-- Pixel Resort’s app icon templates for OS X, iOS, and Android: [http://appicontemplate.com/](http://appicontemplate.com/)
-- Apple’s HIG for iOS App Icons: [https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/AppIcons.html](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/AppIcons.html)
+- [Pixel Resort’s app icon templates](http://appicontemplate.com/) for OS X, iOS, and Android
+- Apple’s [HIG for iOS App Icons](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/AppIcons.html)
+- [Android Guidelines for Launcher Icons](https://developer.android.com/design/style/iconography.html#launcher)
 
 ## Asset Preparation
 
 ### Illustrator Scripts
 
-- Script for generating individual PNGs from Illustrator Artboards: [http://www.ericson.net/content/2012/02/multiexporter-multiple-resolutions/](http://www.ericson.net/content/2012/02/multiexporter-multiple-resolutions/)
-- A similar script that includes exports for Android and iOS: [https://github.com/austynmahoney/mobile-export-scripts-illustrator](https://github.com/austynmahoney/mobile-export-scripts-illustrator)
+- [Multi-exporter AI Script](http://www.ericson.net/content/2012/02/multiexporter-multiple-resolutions/) is a script for generating individual PNGs from Illustrator Artboards
+- [Mobile Export](https://github.com/austynmahoney/mobile-export-scripts-illustrator) is a similar script that includes exports for Android and iOS
 
 ### Sketch Plugins
 
-- Directory of various plugins: [https://github.com/sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)
-- Dymanic buttons: [https://github.com/ddwht/sketch-dynamic-button](https://github.com/ddwht/sketch-dynamic-button)
+- [Various Sketch plugins](https://github.com/sketchplugins/plugin-directory)
+- [Dynamic buttons](https://github.com/ddwht/sketch-dynamic-button) is a very useful plugin
 
 ### Crushing Bitmaps
 
-- Image Alpha for crushing single PNGs: [http://pngmini.com/](http://pngmini.com/)
-- Pngyu is great for batch processing PNGs: [http://nukesaq88.github.io/Pngyu/](http://nukesaq88.github.io/Pngyu/)
-- Image Optim for JPGs and GIFs: [https://imageoptim.com/](https://imageoptim.com/)
+- [Image Alpha](http://pngmini.com/) for crushing single PNGs
+- [Pngyu](http://nukesaq88.github.io/Pngyu/) is great for batch processing PNGs
+- [Image Optim](https://imageoptim.com/) for JPGs and GIFs
 
 ## Front-end Web Tools
 
+### Boilerplate
+
+- [HTML5 Boilerplate for Mobile](https://github.com/h5bp/mobile-boilerplate)
+
 ### Sass & Her Helpers
-- Vanilla sass: [http://sass-lang.com/](http://sass-lang.com/)
-- Compass Ruby Gem: [http://compass-style.org/](http://compass-style.org/)
-- Modern web colours: [http://clrs.cc/](http://clrs.cc/)
+- [Vanilla sass](http://sass-lang.com/)
+- [Compass](http://compass-style.org/) Ruby Gem
+- [Modern web colours](http://clrs.cc/) by [Mrmrs](http://mrmrs.cc/)
 
 ### Static Site Compilers
 
@@ -101,5 +109,18 @@ SS Social Circle:
 - Typekit: [https://typekit.com/](https://typekit.com/)
 - Google Web Fonts: [https://www.google.com/fonts](https://www.google.com/fonts)
 
+### Chrome DevTool Extensions
+
+- [Chrome Developer Tools](https://developer.chrome.com/devtools)
+- [Pesticide](http://pesticide.io/) for quickly solving CSS layout issues
+- [Palette](http://pesticide.io/) for getting colour palette of an image
+
 ### CSS Frameworks
 - Bootstrap: [http://getbootstrap.com/](http://getbootstrap.com/)
+
+## Mockups & Presentation
+
+### Sketch Mockup Resources
+
+- [Sketch App Resources](http://www.sketchappsources.com/category/device.html)
+- [Pixeden](http://www.pixeden.com/psd-mock-up-templates)
